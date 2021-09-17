@@ -1,5 +1,7 @@
 server:
     port: 8002
+api:
+  users: localhost:8081
 eureka:
   client:
     service-url:
